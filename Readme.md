@@ -20,7 +20,7 @@
 |图像|分割任务|[Cityscapes](https://www.paperswithcode.com/sota/semantic-segmentation-on-cityscapes-val) |
 | 点云| 分类任务|[ModelNet](https://www.paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40) |
 |点云|分割任务| [S3DIS](https://www.paperswithcode.com/sota/semantic-segmentation-on-s3dis)、[ScanNet](https://www.paperswithcode.com/sota/semantic-segmentation-on-scannet) |
-
+|点云|生成任务|[ShapeNet](https://www.paperswithcode.com/sota/point-cloud-completion-on-shapenet)|
 
 ## 2. 学习思路
 从一个研究领域入手，可以找这个方向的一些综述文献或者博客看看，比如下面这些：
