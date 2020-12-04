@@ -36,7 +36,8 @@ https://www.jiqizhixin.com/articles/2018-04-27?from=synced&keyword=%E7%9B%AE%E6%
 https://arxiv.org/pdf/1904.08889v2.pdf 
 * 点云分类:  
 https://arxiv.org/pdf/1612.00593v2.pdf 
-
+* 点云 弱监督:  
+https://arxiv.org/pdf/2003.13035.pdf
 ## 3. 最后
 多看论文，聚焦到某个细分领域，看看这个细分领域中的研究工作都是围绕些什么问题做研究的，这些就是 “该领域的痛点“，然后分析大家提出的想法是怎么解决这些问题的，也可以多学习其他领域的文献，想想看能不能从其他领域借鉴一些解决办法。
 
